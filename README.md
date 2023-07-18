@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ombandurkar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning front-end web development, data structures & algorithms and CS fundamentals like operating systems
+- 🌱 I’m currently learning MERN stack development, data structures & algorithms, and CS fundamentals like operating systems and DBMS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me on Linkedln: @ombandurkar, Mail: ombandurkar2410@gmail.com
 
